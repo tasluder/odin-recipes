@@ -17,3 +17,9 @@ a {
 a:hover {
     color: red;
 }
+
+span {
+    display: inline-block;
+    height: auto;
+    padding-right: 10px;
+}
